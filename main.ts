@@ -4,21 +4,21 @@
      enum state
      {
          //% block="ON"
-         ON,
+         ON = 0,
          //% block="OFF"
-         OFF
+         OFF = 1
      }
 
      enum oc01_pins
      {
          //% block="OUT0"
-         OUT0,
+         OUT0 = 0,
          //% block="OUT1"
-         OUT1,
+         OUT1 = 1,
          //% block="OUT2"
-         OUT2,
+         OUT2 = 2,
          //% block="OUT3"
-         OUT3
+         OUT3 = 3
      }
 
      let PCA9536_I2C_ADDRESS:number = 0x41
