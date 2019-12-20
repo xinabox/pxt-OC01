@@ -1,7 +1,7 @@
  //% color=190 weight=100 icon="\uf1e6"
  namespace OC01
  {
-     enum state
+     export enum state
      {
          //% block=ON
          ON = 0,
@@ -9,7 +9,7 @@
          OFF = 1
      }
 
-     enum oc01_pins
+    export enum oc01_pins
      {
          //% block=OUT0
          OUT0 = 0,
