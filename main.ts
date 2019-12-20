@@ -3,21 +3,21 @@
  {
      enum state
      {
-         //% block="ON"
+         //% block=ON
          ON = 0,
-         //% block="OFF"
+         //% block=OFF
          OFF = 1
      }
 
      enum oc01_pins
      {
-         //% block="OUT0"
+         //% block=OUT0
          OUT0 = 0,
-         //% block="OUT1"
+         //% block=OUT1
          OUT1 = 1,
-         //% block="OUT2"
+         //% block=OUT2
          OUT2 = 2,
-         //% block="OUT3"
+         //% block=OUT3
          OUT3 = 3
      }
 
