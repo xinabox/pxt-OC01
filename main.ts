@@ -33,7 +33,7 @@
      pins.i2cWriteNumber(PCA9536_I2C_ADDRESS, PCA9536_REG_CONFIG, NumberFormat.UInt8BE) //reg
      pins.i2cWriteNumber(PCA9536_I2C_ADDRESS, PCA9536_ALL_OUTPUTS_OFF, NumberFormat.UInt8BE) //value
 
-     //% block="OC01 turn pin %pin| %pin_state"|
+     //% block=OC01 turn pin %pin| %pin_state|
      export function toggleOutput(pin: oc01_pins, pin_state: state)
      {
          let current_pin_state: number
