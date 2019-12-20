@@ -1,9 +1,9 @@
 {
     "name": "pxt-oc01",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
-        "adafruit-metro-m0-express": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
