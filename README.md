@@ -1,4 +1,6 @@
-# pxt-oc01
+[![GitHub Issues](https://img.shields.io/github/issues/xinabox/pxt-OC01.svg)](https://github.com/xinabox/pxt-OC01/issues) ![GitHub Commit](https://img.shields.io/github/last-commit/xinabox/pxt-OC01) ![Maintained](https://img.shields.io/maintenance/yes/2020) ![Build status badge](https://github.com/xinabox/pxt-OC01/workflows/MakeCode/badge.svg)
+
+# pxt-OC01
 
 ## Supported targets
 
