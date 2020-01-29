@@ -1,7 +1,7 @@
 {
     "name": "pxt-oc01",
     "version": "1.0.0",
-    "description": "",
+    "description": "XinaBox OC01 Output Control: 3 x Output, 1 x Power Input",
     "dependencies": {
         "core": "*"
     },
