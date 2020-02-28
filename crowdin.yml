@@ -1,0 +1,3 @@
+files:
+  - source: /_locales/en/OC01-strings.json
+    translation: /_locales/%two_letters_code%/OC01-strings.json

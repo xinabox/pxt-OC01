@@ -1,18 +1,22 @@
 {
-    "name": "OC01",
-    "version": "1.0.0",
-    "description": "XinaBox OC01 Output Control: 3 x Output, 1 x Power Input",
-    "dependencies": {
-        "core": "*"
-    },
-    "files": [
-        "README.md",
-        "main.blocks",
-        "main.ts"
-    ],
-    "testFiles": [
-        "test.ts"
-    ],
-    "public": true,
-	"preferredEditor": "blocksprj"
+  "name": "OC01",
+  "version": "1.0.0",
+  "description": "XinaBox OC01 Output Control: 3 x Output, 1 x Power Input",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "README.md",
+    "main.blocks",
+    "main.ts",
+    "_locales/da/OC01-strings.json",
+    "_locales/es/OC01-strings.json",
+    "_locales/zh/OC01-strings.json"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "public": "true",
+  "preferredEditor": "blocksprj",
+  "license": "MIT"
 }
