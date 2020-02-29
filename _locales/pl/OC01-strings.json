@@ -1,8 +1,8 @@
 {
-  "OC01.oc01_pins.OUT0|block": "OUT0",
-  "OC01.oc01_pins.OUT1|block": "OUT1",
-  "OC01.oc01_pins.OUT2|block": "OUT2",
-  "OC01.oc01_pins.OUT3|block": "OUT3",
-  "OC01.toggleOutput|block": "OC01 turn pin %pin| %pin_state|",
+  "OC01.oc01_pins.OUT0|block": "ŚRÓDŁO",
+  "OC01.oc01_pins.OUT1|block": "WYNIKA1",
+  "OC01.oc01_pins.OUT2|block": "DODATKOWE",
+  "OC01.oc01_pins.OUT3|block": "MŁODZIE3",
+  "OC01.toggleOutput|block": "OOC01 skręca pin %pw| %pin_state|",
   "{id:category}OC01": "OC01"
 }
