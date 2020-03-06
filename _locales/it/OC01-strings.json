@@ -3,6 +3,6 @@
   "OC01.oc01_pins.OUT1|block": "OUT1",
   "OC01.oc01_pins.OUT2|block": "OUT2",
   "OC01.oc01_pins.OUT3|block": "OUT3",
-  "OC01.toggleOutput|block": "OC01 ruota pin %pin<unk> %pin_state<unk>",
+  "OC01.toggleOutput|block": "OC01 turn pin %pin | %pin_state |",
   "{id:category}OC01": "OC01"
 }
