@@ -3,6 +3,6 @@
   "OC01.oc01_pins.OUT1|block": "ОВТ1",
   "OC01.oc01_pins.OUT2|block": "ОВТ2",
   "OC01.oc01_pins.OUT3|block": "ОВТ3",
-  "OC01.toggleOutput|block": "OC01 конвертувати контакт %pв| %pin_state|",
+  "OC01.toggleOutput|block": "OC01 turn pin %pin | %pin_state |",
   "{id:category}OC01": "OC01"
 }
