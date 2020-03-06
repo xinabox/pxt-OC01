@@ -3,6 +3,6 @@
   "OC01.oc01_pins.OUT1|block": "Sortie 1",
   "OC01.oc01_pins.OUT2|block": "Sortie 2",
   "OC01.oc01_pins.OUT3|block": "Sortie 3",
-  "OC01.toggleOutput|block": "Tourner la broche OC01 %pin| %pin_state|",
+  "OC01.toggleOutput|block": "OC01 turn pin %pin | %pin_state |",
   "{id:category}OC01": "OC01"
 }
